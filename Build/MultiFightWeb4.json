@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "unitychan1212",
+"productVersion": "0.1",
+"dataUrl": "MultiFightWeb4.data.unityweb",
+"wasmCodeUrl": "MultiFightWeb4.wasm.code.unityweb",
+"wasmFrameworkUrl": "MultiFightWeb4.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.4.16f1"
+}
